@@ -6,4 +6,4 @@ const getAllSubUniqArr = (arr) => {
   // ...
 }
 
-console.log(getAllSubUniqArr(arr)); // 13
+console.log(getAllSubUniqArr(arr)); // 84
